@@ -1,2 +1,2 @@
 # Arduino-Fading-of-led
-code of fading of led
+This is a code to fade light of Arduino.
